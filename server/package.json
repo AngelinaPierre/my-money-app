@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "G.Angelina Pierre <gabrielleAngelinaPierre@outlook.com> (https://www.linkedin.com/in/gabrielle-angelina-pierre-tripodi-pereira-3540081b7/)",
+  "license": "ISC"
+}
